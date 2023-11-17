@@ -7,11 +7,11 @@ Integrate easily in your projects to make it simple and classy
 
 # How to use
 - After cloning
-- put your name inside logo class in h2 tag
+- put your name inside logo class in h2 tag 👤
 - if needed (change the sections name and href)
 - change the href in icons sections with your social handle
-- all set
+- all set ✅
 
 # BUGS
-- Social icons are not responsive wrt all devices and laytos make sure to chnage the as needed
+- Social icons are not responsive w.r.t all devices and layouts make sure to change the icons place as needed
 
